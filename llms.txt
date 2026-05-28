@@ -1,0 +1,33 @@
+# Aggelion
+
+> Architecture and specifications grounded in peer-reviewed science, for teams solving technical problems outside their expertise.
+
+Aggelion delivers specifications and architecture that are explicitly cited to peer-reviewed sources. We work with teams that have an unusual technical problem (often in tokenization, DeFi risk modeling, retrieval systems, or L2 consensus design) where the right answer exists in academic literature but turning it into a system the team can ship is the hard part.
+
+## Value proposition
+
+- The solution to most unusual engineering problems already exists in academic literature. Peer-reviewed papers do not come with implementation guides. We close that gap.
+- Teams that know how to build still get hurt in unfamiliar domains. We validate the choice before production.
+- Architectural decisions defended by literature are easier to justify to investors, auditors, and regulators.
+
+## Packages
+
+- 01 Spec: describe the problem, we deliver a specification (spec.md, formulas, edge cases, peer-reviewed citations) reviewed by a domain expert.
+- 02 Architecture: full design covering data model, protocol, threat model.
+- 03 Architecture + Oversight: package 02 plus launch oversight (spec to code parity, safety review, go / no-go memo).
+
+## Domains
+
+- Real estate tokenization: valuation methodology for fractional, illiquid assets.
+- DeFi risk scoring: counterparty risk under thin-liquidity regimes.
+- Retrieval systems.
+- L2 consensus: validator-set design with formal liveness guarantees.
+
+## Contact
+
+expert@aggelion.ai
+
+## Links
+
+- Site: https://aggelion.ai/
+- Sitemap: https://aggelion.ai/sitemap.xml
